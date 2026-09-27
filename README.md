@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Umer Suleman 👋
 
-<!--
-**Omer-27-ops/Omer-27-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at FAST-NUCES, Peshawar Campus (BCE-263A)
+💻 Interested in software development, web technologies, and ICT
+🌱 Currently learning: [insert what you're learning, e.g. Data Structures, Web Dev]
+📫 Reach me on LinkedIn: [insert your LinkedIn URL]
+🌐 Portfolio: [insert your Google Sites URL]
 
-Here are some ideas to get you started:
+## Skills
+- Languages: [e.g. C, C++, Python, JavaScript]
+- Tools: Git & GitHub, VS Code, Google Workspace, MS Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pinned Projects
+Check out my pinned repositories below for examples of my work!
